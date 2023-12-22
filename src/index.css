@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Source+Sans+3:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  font-family: "Source Sans 3", sans-serif;
+}
+/* 
+.app {
+  display: flex;
+} */
+.content {
+  height: 100%;
+  width: 550px;
+}
